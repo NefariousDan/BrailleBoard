@@ -18,8 +18,7 @@ One of the most significant challenges faced by the blind community is typing on
 
 ## How to install
 
-Download and install the ezButton library from either [ezButton-1.0.4.zip](https://github.com/VeritosHD/BrailleBoard/files/11359347/ezButton-1.0.4.zip)...
-...or Arduino IDE Library Manager
+Download and install the ezButton library from [here](https://github.com/VeritosHD/BrailleBoard/files/11359347/ezButton-1.0.4.zip) or from the Arduino IDE Library Manager
 
 ### Using pre-build package
 1. From the "releases" page install BrailleBoard.ino

@@ -16,3 +16,18 @@ One of the most significant challenges faced by the blind community is typing on
 - ezButton
 - Keyboard.h (native)
 
+## How to install
+
+Download and install the ezButton library from either [ezButton-1.0.4.zip](https://github.com/VeritosHD/BrailleBoard/files/11359347/ezButton-1.0.4.zip)...
+...or Arduino IDE Library Manager
+
+### Using pre-build package
+1. From the "releases" page install BrailleBoard.ino
+2. Upload the code in your IDE on your Arduino Leonardo 
+3. You can now control the keyboard using your shield 
+
+### Manually
+
+1. Clone the repository to any directory
+2. Copy the code from BrailleBoard.ino file
+3. Follow steps 2-3 prom pre-built package guide above

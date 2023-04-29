@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/59985928/235306783-f83f5a02-353c-4997-9025-8fb17cb0221c.png)
+![image](https://user-images.githubusercontent.com/59985928/235306903-a0ebb278-bff6-4eee-9595-bdce308a6576.png)
 
 # BrailleBoard
 The "BrailleBoard" is a specially designed keyboard for blind and visually impaired people. 

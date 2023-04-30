@@ -8,6 +8,10 @@ The "BrailleBoard" is a specially designed keyboard for blind and visually impai
 The number of blind and visually impaired people continues to grow each year. According to a report by the World Health Organization (WHO), there are currently 284 million people in the world who are visually impaired, and 39 million people are blind.
 One of the most significant challenges faced by the blind community is typing on traditional keyboards. Typing on a standard keyboard requires sight to locate the keys, identify special characters, and navigate the layout. Blind individuals do not have the benefit of sight, making it challenging to locate the correct keys, leading to slow and inaccurate typing. This can be frustrating and time-consuming, hindering their ability to complete tasks efficiently.
 
+## Overview
+
+The quick overview of this project could be seen from this [booklet](https://github.com/VeritosHD/BrailleBoard/files/11361802/Booklet.Eternal.ENG.pdf)
+
 ## Requirements
 - Arduino Leonardo
 - Micro-USB
